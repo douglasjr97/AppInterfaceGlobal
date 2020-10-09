@@ -1,1 +1,1 @@
-# App React Native/ No Expo
+# App React Native Template/ No Expo
